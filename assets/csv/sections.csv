@@ -1,0 +1,10 @@
+sectionTitle,link,backgroundImage,uniqueClass
+Services,services.php,section-service.jpg,serviceSection
+Shop,shop.php,pet-supply.jpg,shopSection
+About Us,about.php,about.jpg,aboutSection
+Appointments,myAppointments.php,my-appointment.jpg,myAppointmentSection
+Contact Us,contacts.php,for-contacts.jpg,contactSection
+Gallery,gallery.php,for-gallery.jpg,gallerySection
+Our Team,team.php,for-team.jpg,teamSection
+Other Branches,branches.php,for-branches.jpg,branchesSection
+My Cart,cart.php,for-cart.jpg,cartSection
